@@ -1,4 +1,5 @@
 # real-random
+![Pepy Total Downlods](https://img.shields.io/pepy/dt/real-random)
 
 **real-random** is a Python package that generates random values using real-world entropy from ambient microphone audio. It converts raw audio noise into cryptographic hashes, which are then transformed into useful random outputs such as:
 
