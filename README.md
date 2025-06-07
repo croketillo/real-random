@@ -21,7 +21,7 @@ pip install real-random
 If you plan to build from source:
 
 ```bash
-git clone https://github.com/yourusername/real-random
+git clone https://github.com/croketillo/real-random
 cd real-random
 pip install .
 ```
