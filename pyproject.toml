@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "real-random"
-version = "0.1.0"
+version = "0.1.1"
 description = "Entropy-based random generator using microphone audio to produce real random floats, integers, strings, and choices."
 readme = "README.md"
 requires-python = ">=3.7"
